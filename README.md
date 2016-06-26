@@ -1,4 +1,4 @@
-datasciencecoursera
+datasciencetoolkit
 ===================
 
-Repo for the datasciencecoursera class project
+Repo for the datasciencetoolkit class project
